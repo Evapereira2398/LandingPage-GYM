@@ -2,4 +2,4 @@
 
 ## Check it out 
 
-[Hosting via GitHubPages]()
+[Hosting via GitHubPages](evapereira2398.github.io/LandingPage-GYM)
